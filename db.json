@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Membeli Sayur Bayam",
+      "day": "Jan 5th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Membeli Daging Ayam",
+      "day": "Jan 6th at 3:30pm",
+      "reminder": true
+    },
+    {
+      "text": "New Task",
+      "day": "Jan 8th at 09:30am",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
